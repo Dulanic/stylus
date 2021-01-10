@@ -1,0 +1,28 @@
+html {
+    background-color:#1f1f1f ;
+        color: #f4f4f4;    
+}
+p.title, p.subtitle {
+  color: #f4f4f4;
+}
+.card {
+  background-color: #373737;
+}
+.table {
+  background-color: #373737;
+  color: #f4f4f4;
+}
+.title, .label, .field-body, .about, .table th, .breadcrumb li.is-active a, .navbar-item {
+    color:  #f4f4f4;
+}
+.navbar-dropdown {
+    background-color: #373737;
+    border-top: none;
+}
+.has-text-grey-dark {
+  color: #f4f4f4 !important;
+}
+.navbar-dropdown a.navbar-item:hover {
+  background-color:#1f1f1f;
+  color: #f4f4f4; 
+}
