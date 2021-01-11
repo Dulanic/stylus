@@ -7,7 +7,7 @@
 @description   Adds dark color scheme to teslamate.	
 @author        Dulanic	
 ==/UserStyle== */
-
+@-moz-document regexp("https:\\teslamate.*") {
 html {
 	background-color: #1f1f1f;
 	color: #f4f4f4;
@@ -58,4 +58,4 @@ p.subtitle {
    	background-color: #1f1f1f;
 	color: #cc0f35; 
 }
-
+}
