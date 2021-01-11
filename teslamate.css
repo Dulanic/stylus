@@ -1,3 +1,13 @@
+/* ==UserStyle==	
+@name          Teslamate Dark	
+@namespace     github.com/Dulanic/stylus	
+@homepageURL   https://github.com/Dulanic/stylus/	
+@version       1.0.0	
+@updateURL     https://raw.githubusercontent.com/Dulanic/stylus/master/teslamate.css	
+@description   Adds dark color scheme to teslamate.	
+@author        Dulanic	
+==/UserStyle== */
+
 html {
 	background-color: #1f1f1f;
 	color: #f4f4f4;
