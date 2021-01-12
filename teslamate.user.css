@@ -8,7 +8,7 @@
 @author        Dulanic	
 ==/UserStyle== */
 
-@-moz-document regexp("https:\\teslamate.*") {
+@-moz-document regexp("https:\/\/teslamate.*") {
 html {
 	background-color: #1f1f1f;
 	color: #f4f4f4;
