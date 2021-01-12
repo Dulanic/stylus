@@ -1,6 +1,6 @@
 {
   "name": "thelounge-theme-dark",
-  "version": "1.0.4",
+  "version": "1.0.0",
   "description": "Dark scheme",
   "main": "package.json",
   "thelounge": {
@@ -9,14 +9,14 @@
     "css": "dark.css"
   },
   "license": "MIT",
-  "homepage": "https://github.com/thelounge/thelounge-theme-zenburn#readme",
-  "repository": "https://github.com/thelounge/thelounge-theme-zenburn",
+  "homepage": "https://github.com/Dulanic/stylus/tree/main/thelounge-theme-dark",
+  "repository": "https://github.com/Dulanic/stylus/tree/main/thelounge-theme-dark",
   "keywords": [
     "thelounge",
     "thelounge-theme"
   ],
   "bugs": {
-    "url": "https://github.com/thelounge/thelounge-theme-zenburn/issues"
+    "url": "https://github.com/Dulanic/stylus/issues"
   },
   "devDependencies": {
     "stylelint": "^10.1.0",
